@@ -1,0 +1,4 @@
+TrainingGit
+===========
+
+Eine Git übung
